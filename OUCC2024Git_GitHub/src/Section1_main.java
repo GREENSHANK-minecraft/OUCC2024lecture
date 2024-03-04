@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-//number-1
+
 import static section1.Section1_0.comment_0;
 import static section1.Section1_0.name_0;
 import static section1.Section1_1.comment_1;
