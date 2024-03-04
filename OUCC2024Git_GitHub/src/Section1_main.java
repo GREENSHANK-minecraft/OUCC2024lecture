@@ -27,7 +27,7 @@ public class Section1_main {
         list_section1_comment.add(comment_3);
         //仕切りを表示
         System.out.println("========================================");
-        //名前、コメントを順番に表示
+        //名前、コメントを順番に表示、Enterで進行
         for (int i = 0; i < Main.attendees_number + 1 ; i++ ) {
             if ( i == 0 ){
                 System.out.println("担当者:" + list_section1_name.get(i));
